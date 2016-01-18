@@ -1,0 +1,24 @@
+.add-book {
+  height: 100%;
+  width:60%;
+  background-color: #e1e1e1;
+  margin: auto;
+  padding: auto;
+  label, input {
+    display: block;
+    margin: auto;
+    padding: 20px;
+  }
+  label {
+    font-size: 2em;
+    font-family: "verdana";
+    width: 50%;
+    text-align: left;
+  }
+  input {
+    height: 75px;
+    width: 50%;
+    font-size: 2em;
+    padding: 20px;
+  }
+}

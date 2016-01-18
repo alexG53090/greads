@@ -1,0 +1,27 @@
+//// Main body styling
+.splash-page-content {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  background-color: tomato;
+  align-items: center;
+  justify-content: center;
+}
+.splash-author-continer {
+  display: flex;
+  height: 100%;
+  width: 50%;
+  background-color: white;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.splash-book-continer {
+  display: flex;
+  height: 100%;
+  width: 50%;
+  background-color: #ccc;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
